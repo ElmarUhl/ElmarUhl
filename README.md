@@ -1,6 +1,6 @@
 Hello everybody!
 
-- 👋 My name's Elmar
+- 👋 My name's Elmar and I am from Rio de Janeiro, Brazil.
 - 👀 I’m interested in Physics, Mathematics, C++, Python, Arduino, Raspberry Pi, Electronics, Applied Science...
 - 🌱 I’m currently learning C++, Python, Electronics
 
