@@ -6,7 +6,7 @@
 - sudo systemctl disable bluetooth.service : bluetooth desligado por padrao
 - alt + tab - alterna entre os programas em execução
 
-# Programms
+# Programs
 
 - tesseract : OCR
 - pwgen : gerador de senhas
