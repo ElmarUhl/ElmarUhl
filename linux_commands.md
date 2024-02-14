@@ -1,3 +1,5 @@
+![Tux](https://github.com/ElmarUhl/ElmarUhl/assets/157088447/95cb91c8-c657-4371-9ded-5fdecec6d367)
+
 # Usefull Commands
 
 - command) | more : faz pagina em um comando
