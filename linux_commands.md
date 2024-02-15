@@ -3,10 +3,11 @@
 # Usefull Commands
 
 - command) | more : faz página em um comando
-- time (program) : mostra o tempo de execução de um programa
-- ping 142.250.65.196 : tempos de acesso (google.com)
-- sudo systemctl disable bluetooth.service : bluetooth desligado por padrao
-- alt + tab : alterna entre os programas em execução
+- time (program) : shows the time spents running a program
+- ping 142.250.65.196 : IP acess times (google.com)
+- sudo systemctl disable bluetooth.service : on/off bluetooth
+- alt + tab : change among running programs
+- cat /etc/os-release - Operational System information
 
 # Programs
 
