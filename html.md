@@ -1,11 +1,7 @@
-# Tags
+# Tags HTML
 
-mark - marca texto
-
-del - texto deletado
-
-ins - texto inserido
-
-sup - texto supercrito
-
-sub - texto subscrito
+- \<mark\>\<\\mark\> - marca texto
+- \<del\>\<\\del\> - texto deletado
+- \<ins\>\<\\ins\> - texto inserido
+- \<sup\>\<\\sup\> - texto supercrito
+- \<sub\>\<\\sub\> - texto subscrito
