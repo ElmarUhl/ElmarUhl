@@ -11,4 +11,3 @@
 - \<blockquote cite=\>\<\\blockquote\> - citação
 - \<abbr title=\>\<\\abbr\> - abreviações
 - \<bdo dir='rtl'\>\<\\bdo\> - texto invertido
-- 
