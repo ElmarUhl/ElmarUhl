@@ -2,11 +2,11 @@
 
 # Usefull Commands
 
-- command) | more : faz pagina em um comando
+- command) | more : faz página em um comando
 - time (program) : mostra o tempo de execução de um programa
 - ping 142.250.65.196 : tempos de acesso (google.com)
 - sudo systemctl disable bluetooth.service : bluetooth desligado por padrao
-- alt + tab - alterna entre os programas em execução
+- alt + tab : alterna entre os programas em execução
 
 # Programs
 
