@@ -4,13 +4,13 @@
 - 👀 I’m interested in C++, Python, Arduino, Raspberry Pi, Electronics, Physics, Mathematics, Applied Science...
 - 🌱 I’m currently learning C++, Python and Electronics.
 
-# Future projects
-
-- Simulation of digital electronic circuits in python
-
 I'm happy that you arrived here in my profile and I hope you find out any useful information and you can use them in yours projects.
 
 ## See you soon!
+
+# Future projects
+
+- Simulation of digital electronic circuits in python
 
 # Interesting links
 
