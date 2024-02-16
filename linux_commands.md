@@ -20,3 +20,5 @@
 - gbr2ngc : gera gcode de arquivos gbr (Corel Draw)
 - drl2gcode : gera gcode de arquivos drl
 - dmap2gcode - gera mapas de altura de imagem em gcode
+- synaptics : linux packages administration
+- gparted : disk partition mananger
