@@ -1,8 +1,8 @@
 ![Tux](https://github.com/ElmarUhl/ElmarUhl/assets/157088447/95cb91c8-c657-4371-9ded-5fdecec6d367)
 
-# Usefull Commands
+# Linux Usefull Commands
 
-- command) | more : faz página em um comando
+- (command) | more : faz página em um comando
 - time (program) : shows the time spents running a program
 - ping 142.250.65.196 : IP acess times (google.com)
 - sudo systemctl disable bluetooth.service : on/off bluetooth
