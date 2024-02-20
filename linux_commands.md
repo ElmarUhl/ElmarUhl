@@ -9,6 +9,9 @@
 - ```alt + tab``` change among running programs
 - ```cat /etc/os-release``` Operational System information
 - ```cat /proc/cpuinfo``` shows cpu cores information
+- ```sudo apt search package_name``` shows packages
+- ```sudo apt clean``` clean the repositories
+- ```sudo apt autoremove``` remove orfan packages
 
 # Programs
 
