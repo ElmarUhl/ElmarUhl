@@ -13,6 +13,14 @@
 - ```sudo apt clean``` clean the repositories
 - ```sudo apt autoremove``` remove orfan packages
 
+# Linux Global References
+
+- \* - any sequence of characters
+- ? - any single character
+- [a-z] - single character between a and z
+- [a,e,i,o,u] - a single character vogal
+- {abc, cde} - sequences abc or cde
+
 # Programs
 
 - tesseract : OCR
