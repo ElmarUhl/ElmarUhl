@@ -12,6 +12,8 @@
 - ```sudo apt search package_name``` shows packages
 - ```sudo apt clean``` clean the repositories
 - ```sudo apt autoremove``` remove orfan packages
+- ```gpg --gen-key``` generate private and public keys
+- ```gpg --full-generate-key``` full dialog to generate keys
 
 # Linux Global References
 
