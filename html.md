@@ -11,3 +11,11 @@
 - \<blockquote cite=\>\<\\blockquote\> - citação
 - \<abbr title=\>\<\\abbr\> - abreviações
 - \<bdo dir='rtl'\>\<\\bdo\> - texto invertido
+
+# Imagens
+
+Pequenas (300x300px 80px/in) - cel
+
+Média (700x700px) - tablet
+
+Grande (1000x1000px) - notebook/desktop
