@@ -12,8 +12,22 @@
 - ```sudo apt search package_name``` shows packages
 - ```sudo apt clean``` clean the repositories
 - ```sudo apt autoremove``` remove orfan packages
+ 
 - ```gpg --gen-key``` generate private and public keys
 - ```gpg --full-generate-key``` full dialog to generate keys
+- ```gpg -e file.txt``` - encrypt file
+- ```gpg -e -a file.txt``` - encrypt files ASCII
+- ```gpg -r key -e file.txt``` - encrypt file with external public key
+- ```gpp -d file.txt.gpg``` or ```gpg -d file.txt.asc``` - desencrypt
+- ```gpg -s file.txt``` - sign compacted file 
+- ```gpg -s --clear-sign``` - sign file
+- ```gpg --verify file``` - verify sign
+- ```gpg --export -a usuario``` - export public key
+- ```gpg --import chave-pub-usuario.txt``` - import key
+- gpg --list-keys
+- gpg --list-secret-keys
+- gpg --delete-key usuario
+- pg --delete-secret-key usuario
 
 # Linux Global References
 
