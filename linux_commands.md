@@ -18,9 +18,9 @@
 
 ## GPG Commands
 ### Keys
-- `gpg --gen-key` generate private and public keys
 - `gpg --full-generate-key` full dialog to generate keys
-- `gpg --export -a user` export public key
+- `gpg --gen-key` generate private and public keys
+- `gpg --export -a user > pub-key.txt` export public key
 - `gpg --import pub-key-user.txt` import key
 - `gpg --list-keys` list all keys in database
 - `gpg --list-secret-keys` list private keys
@@ -29,14 +29,15 @@
 
 ### Encrypt and Desencrypt Files
 - `gpg -e file.txt` encrypt file
-- `gpg -e -a file.txt` encrypt files ASCII
-- `gpg -r key -e file.txt` encrypt file with external public key
+- `gpg -e -a file.txt` encrypt files with ASCII output
+- `gpg -r userid -e file.txt` encrypt file with external public key
 - `gpp -d file.txt.gpg` or `gpg -d file.txt.asc` desencrypt files
 
 ### Sign Files
 - `gpg -s file.txt` sign and compact file 
-- `gpg -s --clear-sign` sign file
-- `gpg --verify file` verify sign, you need public key from user in database 
+- `gpg -s --clear-sign file.txt` sign file
+- `gpg --verify file.txt` verify sign, you need public key from user in database
+- `gpg -s --local-user userid file.txt` sign with userid key
 
 # Linux Global References
 - \* - any sequence of characters
