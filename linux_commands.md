@@ -39,6 +39,8 @@
 - `gpg --verify file.txt` verify sign, you need public key from user in database
 - `gpg -s --local-user userid file.txt` sign with userid key
 
+GPG reference - https://www.guiafoca.org/guiaonline/seguranca/ch07s11.html
+
 # Linux Global References
 - \* - any sequence of characters
 - ? - any single character
