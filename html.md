@@ -1,5 +1,8 @@
 # Tags HTML
 
+- \<strong\>text\<\\strong\> - texto em negrito
+- \<em\>text\<\\em\> - texto itálico
+
 - \<mark\>\<\\mark\> - marca texto
 - \<del\>\<\\del\> - texto deletado
 - \<ins\>\<\\ins\> - texto inserido
