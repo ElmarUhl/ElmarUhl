@@ -7,6 +7,7 @@
 - `ping 142.250.65.196` shows IP acess times (the IP number is from google.com)
 - `cat /etc/os-release` Operational System information
 - `cat /proc/cpuinfo` shows cpu cores information
+- `shred file` overwrite file several times for secure deletion
 
 - `sudo systemctl disable bluetooth.service` on/off bluetooth
 - `alt + tab` change among running programs
