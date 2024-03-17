@@ -33,7 +33,7 @@ I'm happy that you arrived here in my profile and I hope you find out any useful
 
 1. Balena Etcher: https://etcher.balena.io/
 
-## AI
+## 🧠 AI
 
 1. Gemini AI: https://gemini.google.com
 <!---
