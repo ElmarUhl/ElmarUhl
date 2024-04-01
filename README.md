@@ -36,7 +36,10 @@ I'm happy that you arrived here in my profile and I hope you find out any useful
 
 ## 🧠 AI
 
-1. Gemini AI: https://gemini.google.com
+1. [Google Gemini](https://gemini.google.com)
+2. [Stable Diffusion](https://stablediffusionweb.com/pt/app/image-to-image) [Prompt Templates for Stable Diffusion](https://github.com/Dalabad/stable-diffusion-prompt-templates)
+
+
 <!---
 ElmarUhl/ElmarUhl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
