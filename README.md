@@ -22,7 +22,7 @@ I'm happy that you arrived here in my profile and I hope you find out any useful
 ## ⚙ Engineering
 
 1. Ben Eater in YouTube Channel: https://www.youtube.com/@BenEater
-2. WR Kits in YouTube Channel: https://www.youtube.com/@canalwrkits only in portuguish, but very good videos about electronics.
+2. WR Kits in YouTube Channel: https://www.youtube.com/@canalwrkits only in portuguese, but very good videos about electronics.
 3. Hello Z80.org: https://clrhome.org/asm/ is a assembler compiler for Z80 microprocessors.
 
 ## 🖥️ Programming
