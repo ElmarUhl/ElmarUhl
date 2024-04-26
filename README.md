@@ -39,11 +39,9 @@ I'm happy that you arrived here in my profile and I hope you find out any useful
 
 [Curso Rapberry Pi](https://www.youtube.com/watch?v=X7WMSfEfZGg&list=PLHz_AreHm4dnGZ_nudmN4rvyLk2fHFRzy&index=2): Introdutory course about Raspberry Pi.
 
-## Mathematics
+## 🧮 Mathematics
 
 [3Blue1Brown](https://www.youtube.com/@3blue1brown): excellent channel about mathematics.
-
-
 
 ## 🧠 AI
 
