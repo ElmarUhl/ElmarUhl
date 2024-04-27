@@ -48,6 +48,7 @@ GPG reference - https://www.guiafoca.org/guiaonline/seguranca/ch07s11.html
 - [a-z] - single character between a and z
 - [a,e,i,o,u] - a single character vogal
 - {abc, cde} - sequences abc or cde
+- ^ - to exclude a character
 
 # Programs
 - tesseract : OCR
