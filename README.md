@@ -37,7 +37,9 @@ I'm happy that you arrived here in my profile and I hope you find out any useful
 
 ## ⚡ Electronic
 
-[Curso Rapberry Pi](https://www.youtube.com/watch?v=X7WMSfEfZGg&list=PLHz_AreHm4dnGZ_nudmN4rvyLk2fHFRzy&index=2): Introdutory course about Raspberry Pi.
+1. [Curso Rapberry Pi](https://www.youtube.com/watch?v=X7WMSfEfZGg&list=PLHz_AreHm4dnGZ_nudmN4rvyLk2fHFRzy&index=2): Introdutory course about Raspberry Pi.
+2. [Curso Arduino](https://www.youtube.com/playlist?list=PL05085BAC19CB5DF1): Arduino course (only in Portuguese)
+
 
 ## 🧮 Mathematics
 
