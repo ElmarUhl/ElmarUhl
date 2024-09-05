@@ -50,6 +50,10 @@ I'm happy that you arrived here in my profile and I hope you find out any useful
 1. [Google Gemini](https://gemini.google.com): AI look like chat-gpt of Google.
 2. [Stable Diffusion](https://stablediffusionweb.com/pt/app/image-to-image) [Prompt Templates for Stable Diffusion](https://github.com/Dalabad/stable-diffusion-prompt-templates): AI for generation of immages.
 
+## Others
+
+1. [Curso básico de solda](https://www.youtube.com/watch?v=6r7SYxEjkfM&list=PLQuUqxBpzU8RrK2ELZF9jxR3ZUBDjkm0K): A basic course for welders (only in Portuguese).
+
 <!---
 ElmarUhl/ElmarUhl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
