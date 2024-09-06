@@ -53,6 +53,7 @@ I'm happy that you arrived here in my profile and I hope you find out any useful
 ## Others
 
 1. [Curso básico de solda](https://www.youtube.com/watch?v=6r7SYxEjkfM&list=PLQuUqxBpzU8RrK2ELZF9jxR3ZUBDjkm0K): A basic course for welders (only in Portuguese).
+2. [Como Soldar com Eletrodo Revestido - GUIA COMPLETO PARA INICIANTES](https://www.youtube.com/watch?v=rPAAnFtH1YE): A guide for MMA welders (only in Portuguese).
 
 <!---
 ElmarUhl/ElmarUhl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
