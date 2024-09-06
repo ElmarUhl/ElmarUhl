@@ -48,7 +48,7 @@ I'm happy that you arrived here in my profile and I hope you find out any useful
 ## 🧠 AI
 
 1. [Google Gemini](https://gemini.google.com): AI look like chat-gpt of Google.
-2. [Stable Diffusion](https://stablediffusionweb.com/pt/app/image-to-image) [Prompt Templates for Stable Diffusion](https://github.com/Dalabad/stable-diffusion-prompt-templates): AI for generation of immages.
+2. [Stable Diffusion](https://stablediffusionweb.com/pt/app/image-to-image) [Prompt Templates for Stable Diffusion](https://github.com/Dalabad/stable-diffusion-prompt-templates): AI for generation of images.
 
 ## Others
 
